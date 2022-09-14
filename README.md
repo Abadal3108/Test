@@ -1,9 +1,9 @@
-##Test
-###Apartado A
+## Test
+### Apartado A
 Blabla
--si
--no
--No se
-###Apartado B
+- si
+- no
+- No se
+### Apartado B
 
 bla bla
